@@ -1,5 +1,4 @@
 # ClickSAM
-**Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation**
 
 This is the official repository for ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation.
 
@@ -15,9 +14,11 @@ accept-user-feedback-via-voronoi-tiling-part-1-8ab85d410d29.
 www.sciencedirect.com/science/article/pii/S2352340919312181.
 
 ## Reference
+```
 @inproceedings{guo2024clicksam,
 	author = {Guo, Aimee and Fei, Grace and Pasupuleti, Hemanth and Wang, Jing},
 	title = {ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation},
 	booktitle = {SPIE Medical Imaging conference},
 	year = {2024}
 }
+```
