@@ -2,6 +2,8 @@
 
 This is the official repository for ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation.
 
+Set up guide to be posted soon.
+
 **Paper: https://arxiv.org/abs/2402.05902**
 
 ## Acknowledgements
